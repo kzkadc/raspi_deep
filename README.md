@@ -1,5 +1,4 @@
-# Raspberry Piとディープラーニングで画像認識やろうとしたら重かったのでサーバーに計算させた
-[Qiitaに書いた記事](https://qiita.com/kzkadc/items/bcf817704549295875ee)のコードです。
+# Raspberry Piからサーバーに画像を投げて認識結果を返す
 
 ## 準備
 ### サーバー側
